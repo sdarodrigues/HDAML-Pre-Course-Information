@@ -76,26 +76,30 @@ Not all learning needs to be technical and detailed. It can be useful to read in
 
 This is a collection of some of the most popular blogs in relevant spaces to the program. You do not need to follow all of them, or any of them. HDA recommends browsing a few from each category to begin to understand where your interests may lie.
 
-Data Science and ML
-- https://www.kdnuggets.com/
-- https://towardsdatascience.com/
-- https://www.analyticsvidhya.com/blog/
+#### Data Science and ML {-}
+
+* https://www.kdnuggets.com/
+* https://towardsdatascience.com/
+* https://www.analyticsvidhya.com/blog/
 
 
-AI
-- https://bair.berkeley.edu/blog/
-- https://news.mit.edu/topic/artificial-intelligence2
+#### AI {-}
 
-Programming
-- https://news.ycombinator.com/
-- https://blog.tensorflow.org/
-- https://www.mygreatlearning.com/blog/
+* https://bair.berkeley.edu/blog/
+* https://news.mit.edu/topic/artificial-intelligence2
 
-Biotech
-- https://www.sciencedaily.com/news/plants_animals/biotechnology/
-- https://www.nature.com/nbt/
-- https://www.fiercebiotech.com/
-- https://www.fiercepharma.com/
+#### Programming {-}
+
+* https://news.ycombinator.com/
+* https://blog.tensorflow.org/
+* https://www.mygreatlearning.com/blog/
+
+#### Biotech {-}
+ 
+* https://www.sciencedaily.com/news/plants_animals/biotechnology/
+* https://www.nature.com/nbt/
+* https://www.fiercebiotech.com/
+* https://www.fiercepharma.com/
 
 
 
