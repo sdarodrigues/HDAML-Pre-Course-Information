@@ -10,3 +10,7 @@ The first version of the guide contains all of the key information on HDA and ho
 ## v.0.1
 
 Minor updates to correct minor typos after review by the administrative team of all term dates and contact information.
+
+## v.0.2
+
+Minor updates for the academic year 2026/2027
