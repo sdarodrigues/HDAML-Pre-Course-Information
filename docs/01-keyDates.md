@@ -35,19 +35,8 @@ Below are provisional Imperial College terms dates for 2026-27. **Please note th
 Note: You must be in London for all assessments and please note these dates might be subject to change.
 
 
-***Closure dates***
-
-| Closure             | Start Date              | End Date                |
-|:-----------------:|:-----------------:|:----------------------:|
-| Christmas/New Year    | 22 December 2025 | 2 January 2026 (College reopens on 5 January 2026)         |
-| Easter Holiday            | 1 April 2026    | 7 April 2026 (College reopens on 8 April 2026)       |
-| Early May Bank Holiday     | 4 May 2026    |          |
-| Spring Bank Holiday            | 25 May 2026   |           |
-| Summer Bank Holiday     | 31 August 2026     |           |
-
-
 ***College Term dates***
 
-Imperial closure dates can be found [here](https://www.imperial.ac.uk/human-resources/leave/university-closure-days/)
+Imperial closure dates can be found [here](https://www.imperial.ac.uk/human-resources/leave/university-closure-days/).
 
 Again, please note that as a one year postgraduate course, assessment submissions may take place outside the main term / exam periods.

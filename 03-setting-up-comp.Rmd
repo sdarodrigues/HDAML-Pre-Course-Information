@@ -4,7 +4,7 @@ HDA uses the following programming languages: Bash, R, Python, SQL, Git, and Lat
 
 It is important to note the distinction between HDA using the languages and HDA teaching the languages. The fundamentals of each language will be introduced, but the focus will be on the application and utility of the languages rather than improving programming skills. Students are provided a free subscription to Datacamp which they are expected to use to hone their programming skills.
 
-If you have trouble installing any of these programs please fill out this help form: https://forms.office.com/e/QnCqDH5kJ1
+If you have trouble installing any of these programs don't worry, you will revisit the installation of these in the induction week and across the first few weeks of the different modules.
 
 ## Bash
 
@@ -159,7 +159,7 @@ GitHub is widely considered an industry standard for software development and ve
 
 [Install Git](#installing-git) and then [Make a Github Account](#installing-github)
 
-You will be introduced to Git and Github in week 5 of the Program, so you do not need to be a master now.
+You will be introduced to Git and Github in the Translational Data Science module of the programme, so you do not need to be a master now.
 
 ## Other Programming Languages
 
