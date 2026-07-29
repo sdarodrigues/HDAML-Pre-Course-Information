@@ -11,7 +11,7 @@ Most of the readings are articles that are available on Leganto (Imperial's inte
 
 - **Essential Medical Statistics.** Kirkwood B and Sterne J (2003) (2nd ed). Blackwell Science Ltd. [https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719](https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719) 
 Chapters 2–5 will support what you learn in the term 1 statistics module.
-- **An Introduction to Medical Statistics.** Bland M (2015) (4th ed). Oxford University Press. An alternative excellent standard text book. This includes multiple choice and other questions at the end of chapters, which may be useful for revision purposes. [http://www-users.york.ac.uk/~mb55/intro/introcon.htm](http://www-users.york.ac.uk/~mb55/intro/introcon.htm) (accessed 25 July 2017) contains useful additional material. Chapters 4–7 will support what you learn in the term 1 statistics module.
+- **An Introduction to Medical Statistics.** Bland M (2015) (4th ed). Oxford University Press. An alternative excellent standard text book. This includes multiple choice and other questions at the end of chapters, which may be useful for revision purposes. [http://www-users.york.ac.uk/~mb55/intro/introcon.htm](http://www-users.york.ac.uk/~mb55/intro/introcon.htm) contains useful additional material. Chapters 4–7 will support what you learn in the term 1 statistics module.
 
 
 ## Programming
@@ -19,6 +19,8 @@ Chapters 2–5 will support what you learn in the term 1 statistics module.
 There are no accompanying programming textbooks for HDA. For those interested in having a textbook, the following are free PDFs to download which contain material covering most of the key programming concepts.
 
 [Hands-on programming with R, Garrett Grolemun](https://rstudio-education.github.io/hopr/index.html)
+
+[R for Data Science, 2e, Hadley Wickham, Mine Çetinkaya-Rundel and Garrett Grolemun](https://r4ds.hadley.nz/)
 
 [Intro to Python Programming](https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_to_Python_Programming_-_WEB.pdf)
 
@@ -34,7 +36,7 @@ Note: HDA does not cover recursion as it is more relevant to computer science th
 **Basic Epidemiology** Bonita et al. Available free of charge from: [https://apps.who.int/iris/bitstream/handle/10665/43541/9241547073_eng.pdf?sequence=1](https://apps.who.int/iris/bitstream/handle/10665/43541/9241547073_eng.pdf?sequence=1)
 
 
-#### Recommended reading
+#### Recommended reading {-}
 
 These books are not covered in the course but have been supplied in the reading list by the module team for those interested in Epidemiology.
 
@@ -42,7 +44,7 @@ These books are not covered in the course but have been supplied in the reading 
 
 - **Epidemiology(Fifth edition.).** Szklo, M. and Nieto, F.J. (2014).  Burlington, Massachusetts,Jones & Bartlett Learning (approx. £93). Available to purchase from: [https://blackwells.co.uk/bookshop/product/9781449604691?gclid=Cj0KCQjwwqXMBRCDARIsAD-AQ2g9wGEkLUMAkkoIY_FO62AVEVFj2neeE93lnZKq--zCsJF7IuAp65kaAgAKEALw_wcB](https://blackwells.co.uk/bookshop/product/9781449604691?gclid=Cj0KCQjwwqXMBRCDARIsAD-AQ2g9wGEkLUMAkkoIY_FO62AVEVFj2neeE93lnZKq--zCsJF7IuAp65kaAgAKEALw_wcB)
 - **Gordis Epidemiology.** Gordis, L. (2014).  Philadelphia, PA: Elsevier Saunders (approx. £35). Available to purchase from: [https://www.uk.elsevierhealth.com/epidemiology-9781455737338.html](https://www.uk.elsevierhealth.com/epidemiology-9781455737338.html)
-- **Epidemiology: Beyond the Basics.** Ward H, Toledano M, Shaddick G, Davies B, Elliott P (2012) . Oxford University Press, Oxford UK. (Amazon price £26).
+- **Oxford Handbook of Epidemiology for Clinicians (Oxford Handbooks Series)** Ward H, Toledano M, Shaddick G, Davies B, Elliott P (2012) . Oxford University Press, Oxford UK. [https://www.amazon.co.uk/Oxford-Handbook-Epidemiology-Clinicians-Handbooks-ebook/dp/B00C3XJMQ0](Available new or used).
 - **Essential epidemiology: an introduction for students and health professionals.** Webb, P., Bain, C. and Page, A., 2016. . Cambridge University Press. [https://www.amazon.co.uk/Essential-Epidemiology-Introduction-Students-Professionals/dp/0521177316](https://www.amazon.co.uk/Essential-Epidemiology-Introduction-Students-Professionals/dp/0521177316)
 
 
