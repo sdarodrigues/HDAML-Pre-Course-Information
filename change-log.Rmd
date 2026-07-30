@@ -19,3 +19,5 @@ Previous versions were created by Mr Thomas Wright, a previous teaching fellow a
 * changes to dates
 * corrections of figure numbering
 * updates to latest release numbers
+
+If you notice any typos or some releases need to be updated, please contact Dr Sabrina Rodrigues with any changes or suggestions.
