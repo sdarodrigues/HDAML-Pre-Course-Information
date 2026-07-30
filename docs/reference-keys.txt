@@ -5,6 +5,13 @@ fig:unnamed-chunk-4
 fig:unnamed-chunk-5
 fig:unnamed-chunk-6
 fig:unnamed-chunk-7
+fig:downloadR-label
+fig:installR-label
+fig:downloadQuartz-label
+fig:downloadWindowsR-label
+fig:downloadRstudio-label
+fig:downloadRstudio2-label
+fig:checkPackage-label
 fig:unnamed-chunk-8
 term-dates-and-time-requirements
 imperial-college-term-dates

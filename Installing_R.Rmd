@@ -5,28 +5,30 @@ You must install R before you can install R Studio. A note: R is an open-source 
 
 ## Installing R {#installing-R}
 
-Please download and install R (version 4.5.1) from the CRAN following the relevant instructions below.
+Please download and install R (version 4.6.1) from the CRAN following the relevant instructions below.
 
 ### Mac users
 
 R for Mac OS X can be downloaded from the following link: https://cran.r-project.org/bin/macosx/
 
-The link will take you to the download page on the CRAN (Figure 1). Please select the latest version by clicking on R-4.5.1.pkg (circled in red) if this version can be supported on your machine. Otherwise, choose the latest supported version. If you have a laptop with the Apple chip, you can select the version circled in green, which has been specifically designed for that chip.
+The link will take you to the download page on the CRAN (Figure 1). Please select the latest version by clicking on R-4.6.1.pkg (circled in red) if this version can be supported on your machine. Otherwise, choose the latest supported version. If you have a laptop with the Apple chip, you can select the version circled in green, which has been specifically designed for that chip. 
 
-```{r, echo=FALSE, fig.cap="Downloading R from the CRAN", out.width = '100%'}
+*Note:* The images below refer to previous versions but the installation steps will be similar for the latest version.
+
+```{r, echo=FALSE, downloadR-label, fig.cap="Downloading R from the CRAN", out.width = '100%'}
 
 knitr::include_graphics("FIG_software_installation/R_download_mac.png")
 ```
 
 Once the download has finished, you can follow the recommended steps for installation (Figure 2). 
 
-```{r, echo=FALSE, fig.cap="R installation", out.width = '100%'}
+```{r, echo=FALSE, installR-label, fig.cap="R installation", out.width = '100%'}
 knitr::include_graphics("FIG_software_installation/R_install.png")
 ```
 
 As indicated on the download page, you will also need to install XQuartz to be able to use some more advanced R functionalities. This can be done from this link: https://www.xquartz.org
 
-```{r, echo=FALSE, fig.cap="Downloading XQuartz", out.width = '100%'}
+```{r, echo=FALSE, downloadQuartz-label, fig.cap="Downloading XQuartz", out.width = '100%'}
 knitr::include_graphics("FIG_software_installation/XQuartz_download_mac.png")
 ```
 
@@ -35,9 +37,9 @@ knitr::include_graphics("FIG_software_installation/XQuartz_download_mac.png")
 
 R for Windows can be downloaded from the following link: https://cran.r-project.org/bin/windows/base/
 
-The link will take you to the download page on the CRAN (Figure 4). Please select the latest version by clicking on "Download R 4.5.1 for Windows".
+The link will take you to the download page on the CRAN (Figure 4). Please select the latest version by clicking on "Download R 4.6.1 for Windows".
 
-```{r, echo=FALSE, fig.cap="Downloading R from the CRAN", out.width = '100%'}
+```{r, echo=FALSE, downloadWindowsR-label ,fig.cap="Downloading R from the CRAN", out.width = '100%'}
 knitr::include_graphics("FIG_software_installation/R_download_windows.png")
 ```
 
@@ -49,14 +51,14 @@ R Studio is both a GUI and an integrated development environment for R. You can 
 This link will take you to this webpage:
 
 
-```{r, echo=FALSE, fig.cap="Downloading R Studio (step 1)", out.width = '100%'}
+```{r, echo=FALSE, downloadRstudio-label, fig.cap="Downloading R Studio (step 1)", out.width = '100%'}
 knitr::include_graphics("FIG_software_installation/Rstudio_download1.png")
 ```
 
 Click on "Download" and select the installation file corresponding to your system. Once the file is downloaded, please follow the instructions for installation.
 
 
-```{r, echo=FALSE, fig.cap="Downloading R Studio (step 2)", out.width = '100%'}
+```{r, echo=FALSE, downloadRstudio2-label, fig.cap="Downloading R Studio (step 2)", out.width = '100%'}
 knitr::include_graphics("FIG_software_installation/Rstudio_download2.png")
 ```
 
@@ -116,7 +118,7 @@ Once both R and R Studio are installed, you can open RStudio and install the req
 Once you have run all these lines of code, please make sure that all the packages have been properly installed. They should all be listed in the “Packages” tab (bottom right hand quadrant of R Studio):
 
 
-```{r, echo=FALSE, fig.cap="Checking Package Download", out.width = '100%'}
+```{r, echo=FALSE, checkPackage-label, fig.cap="Checking package download", out.width = '100%'}
 knitr::include_graphics("imgs/R_Packages.png")
 ```
 

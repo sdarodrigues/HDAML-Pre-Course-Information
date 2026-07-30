@@ -7,10 +7,16 @@ bookdown::gitbook:
         <li><a href="./">HDA Precourse Material</a></li>
       after: |
         <li><a href="tjw19"</a></li>
+  number_sections: true
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes
+  number_sections: true
 bookdown::epub_book: default
+bookdown::html_document2:
+  number_sections: true
+  global_numbering: false
+
