@@ -140,16 +140,17 @@ The Translational Data Sciences module aims to guide students in the process of 
 *	Critical appraisal of the results and perspectives definition.
 
 At the end of this module, students will be able to:
-1.	Design and implement an analytical research plan to analyse huge datasets applying statistical, machine learning and data management methods;
-2.	Manage the complexities of processing and analysing secure and large datasets;
-3.	Produce original results and contextualise these in the broader medical and health analytics field;
-4.	Produce a written report and oral presentation that communicates research succintly and effectively to a scientific audience;
-5.	Appraise and criticially assess their own research and that of peers;
-6.	Prepare a response to reviewers that makes ammendments to research or justifies the choices made.
+
+1. Design and implement an analytical research plan to analyse huge datasets applying statistical, machine learning and data management methods;
+2. Manage the complexities of processing and analysing secure and large datasets;
+3. Produce original results and contextualise these in the broader medical and health analytics field;
+4. Produce a written report and oral presentation that communicates research succintly and effectively to a scientific audience;
+5. Appraise and criticially assess their own research and that of peers;
+6. Prepare a response to reviewers that makes ammendments to research or justifies the choices made.
 
 **Module content**
 
-In Part I, the module will first provide students with some basic computational tools and skills that will  help them throughout the term with other modules and those of Term 2: R, Unix, high-performance computing skills and visualisation tools. In Part II, the module will call upon the methods studied during the other modules of Term 2 and will require immediate solicitation of the knowledge freshly acquired to successfully implement them in real-time for the in-depth analyses of real data in relation to a real research question. Students will work in groups throughout the entire term on their group project. To ensure that students are kept up-to-date with the most cutting-edge research in the field there will be 5 seminars spread throughout the term (either on Wednesday mornings or on the TDS teaching day) where students will work in groups to read and present on a scientific paper and then discuss the paper with the relevant authors.
+In Part I, the module will first provide students with some basic computational tools and skills that will  help them throughout the term with other modules and those of Term 2: R, Unix, high-performance computing skills and visualisation tools. In Part II, the module will call upon the methods studied during the other modules of Term 2 and will require immediate solicitation of the knowledge freshly acquired to successfully implement them in real-time for the in-depth analyses of real data in relation to a real research question. Students will work in groups throughout the entire term on their group project. 
  
 Overall, this module will place students in the situation of researchers from the field of data science where cutting-edge methods are needed to fully exploit complex existing datasets. Projects proposed will borrow from the following (non-exhaustive) fields:
 
