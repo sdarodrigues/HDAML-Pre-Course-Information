@@ -19,7 +19,14 @@ fig:SpyderView-label
 fig:PyCharmView-label
 fig:InstallVS-label
 fig:VSView-label
-fig:unnamed-chunk-8
+fig:macCheck-label
+fig:windowsCheck-label
+fig:DBeaverFree-label
+fig:DBeaverInstallation-label
+fig:DBeaverView-label
+fig:SQLiteDriver-label
+fig:DBeaverScript-label
+fig:FirstCommand-label
 fig:githubDesktop-label
 fig:githubDesktop2-label
 term-dates-and-time-requirements

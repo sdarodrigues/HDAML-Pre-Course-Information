@@ -325,10 +325,10 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p>If you are using a Mac OS of version &lt; 10.14 and MySQL 8.0 does not work, you can install an older version of MySQL by going to this <a href="https://downloads.mysql.com/archives/community/">Archive</a> and download MySQL 5.7.x that suits your Mac OS version.</p>
 <p><a href="https://dev.mysql.com/doc/refman/8.0/en/macos-installation-pkg.html">Follow These Instruction Up to Step 8</a></p>
 <p>Once your installation is done you can test if it was successful by doing the following:</p>
-<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-1"></span>
+<div class="figure"><span style="display:block;" id="fig:macCheck-label"></span>
 <img src="imgs/SQL_Mac_Check.png" alt="Mac MySQL Check" width="100%" />
 <p class="caption">
-Figure 3.1: Mac MySQL Check
+Figure 12.1: Mac MySQL Check
 </p>
 </div>
 </div>
@@ -338,10 +338,10 @@ Figure 3.1: Mac MySQL Check
 <p>For those with Windows 10 or higher, please install MySQL 8.0:</p>
 <p><a href="http://www.mysqltutorial.org/install-mysql/">Windows Install</a></p>
 <p>Once your installation is done you can test if it was successful by doing the following:</p>
-<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-2"></span>
+<div class="figure"><span style="display:block;" id="fig:windowsCheck-label"></span>
 <img src="imgs/SQL_Windows_Check.png" alt="Windows MySQL Check" width="100%" />
 <p class="caption">
-Figure 3.2: Windows MySQL Check
+Figure 12.2: Windows MySQL Check
 </p>
 </div>
 </div>
@@ -352,17 +352,17 @@ Figure 3.2: Windows MySQL Check
 <p>There are other SQL GUIs or IDEs, but there is no consensus industry favourite. Unlike the other programming languages you have seen so far, SQL has closed-source versions (not free). Both Microsoft and Oracle have their own version of SQL (which is very similar to MySQL) which their applications run on. Unlike R or Python, if you are working on a commercial product that has a license from either of those companies, you can call up their support center to get help with your issues or contract out large scale development tasks to their companies.</p>
 <p>Please download the installer for DBeaver Community 24.1.4 that matches your operating system:</p>
 <p><a href="https://dbeaver.io/download/">DBeaver Install</a></p>
-<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-3"></span>
+<div class="figure"><span style="display:block;" id="fig:DBeaverFree-label"></span>
 <img src="imgs/DBeaver/DBeaver_Version.png" alt="DBeaver Free vs Paid" width="100%" />
 <p class="caption">
-Figure 3.3: DBeaver Free vs Paid
+Figure 12.3: DBeaver Free vs Paid
 </p>
 </div>
 <p>Mac Users will need to drag the downloaded program into the Applications folder:</p>
-<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-4"></span>
-<img src="imgs/DBeaver/Mac_Application.png" alt="Downloading R from the CRAN" width="100%" />
+<div class="figure"><span style="display:block;" id="fig:DBeaverInstallation-label"></span>
+<img src="imgs/DBeaver/Mac_Application.png" alt="Installation DBeaver on Mac" width="100%" />
 <p class="caption">
-Figure 3.4: Downloading R from the CRAN
+Figure 12.4: Installation DBeaver on Mac
 </p>
 </div>
 <div id="testing-out-dbeaver" class="section level3 hasAnchor" number="12.2.1">
@@ -372,18 +372,18 @@ Figure 3.4: Downloading R from the CRAN
 <p>If you said no accidentally, follow the instructions at this link to create the sample database
 <a href="https://dbeaver.com/docs/dbeaver/Sample-Database/" class="uri">https://dbeaver.com/docs/dbeaver/Sample-Database/</a></p>
 <p>Your screen should look like this:</p>
-<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-5"></span>
+<div class="figure"><span style="display:block;" id="fig:DBeaverView-label"></span>
 <img src="imgs/DBeaver/Start_Sample_Database.png" alt="What DBeaver Looks Like" width="100%" />
 <p class="caption">
-Figure 3.5: What DBeaver Looks Like
+Figure 12.5: What DBeaver Looks Like
 </p>
 </div>
 <p>Now, click the ‘&gt;’ next to “DBeaver Sample Database (SQLite) (where the red arrow is pointing in the picture above).</p>
 <p>You will be asked to Download the SQLite driver file:</p>
-<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-6"></span>
+<div class="figure"><span style="display:block;" id="fig:SQLiteDriver-label"></span>
 <img src="imgs/DBeaver/SQLite.png" alt="Downloading SQLite Driver File" width="100%" />
 <p class="caption">
-Figure 4.1: Downloading SQLite Driver File
+Figure 12.6: Downloading SQLite Driver File
 </p>
 </div>
 <p>Before you start testing DBeaver using a local SQLite server. Let’s go over some definitions:</p>
@@ -391,10 +391,10 @@ Figure 4.1: Downloading SQLite Driver File
 Server = Hardware where data is stored (can be local, remote, cloud, etc.)<br />
 SQLite is the dialect of SQL that the database is set up to be queried in.</p>
 <p>In DBeaver, create a New SQL script and save it with an informative name:</p>
-<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-7"></span>
+<div class="figure"><span style="display:block;" id="fig:DBeaverScript-label"></span>
 <img src="imgs/DBeaver/New_Script.png" alt="DBeaver New Script" width="100%" />
 <p class="caption">
-Figure 4.2: DBeaver New Script
+Figure 12.7: DBeaver New Script
 </p>
 </div>
 <p>What does the writing above your script (the red arrow above) mean?</p>
@@ -406,10 +406,10 @@ What happened?<br />
 Switch the order of your lines of code and press (2) again. Is your output any different?<br />
 Save your script<br />
 </p>
-<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-8"></span>
+<div class="figure"><span style="display:block;" id="fig:FirstCommand-label"></span>
 <img src="imgs/DBeaver/First_Command.png" alt="Running SQL Commands" width="100%" />
 <p class="caption">
-Figure 12.1: Running SQL Commands
+Figure 12.8: Running SQL Commands
 </p>
 </div>
 <p>You have just queried an instance of a local server using a SQLite relational database management system in an Integrated Development Environment. Don’t get overwhelmed by any confusing or complexing sounding jargon though – when you start at the beginning and keep practicing you will be writing complex code before you know it.</p>

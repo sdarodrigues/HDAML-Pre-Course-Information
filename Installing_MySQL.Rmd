@@ -25,7 +25,7 @@ If you are using a Mac OS of version < 10.14 and MySQL 8.0 does not work, you ca
 Once your installation is done you can test if it was successful by doing the following:
 
 
-```{r, echo=FALSE, fig.cap="Mac MySQL Check", out.width = '100%'}
+```{r, echo=FALSE, macCheck-label ,fig.cap="Mac MySQL Check", out.width = '100%'}
 
 knitr::include_graphics("imgs/SQL_Mac_Check.png")
 ```
@@ -42,7 +42,7 @@ For those with Windows 10 or higher, please install MySQL 8.0:
 
 Once your installation is done you can test if it was successful by doing the following:
 
-```{r, echo=FALSE, fig.cap="Windows MySQL Check", out.width = '100%'}
+```{r, echo=FALSE, windowsCheck-label,fig.cap="Windows MySQL Check", out.width = '100%'}
 
 knitr::include_graphics("imgs/SQL_Windows_Check.png")
 ```
@@ -59,14 +59,14 @@ Please download the installer for DBeaver Community 24.1.4 that matches your ope
 [DBeaver Install](https://dbeaver.io/download/)
 
 
-```{r, echo=FALSE, fig.cap="DBeaver Free vs Paid", out.width = '100%'}
+```{r, echo=FALSE, DBeaverFree-label  ,fig.cap="DBeaver Free vs Paid", out.width = '100%'}
 
 knitr::include_graphics("imgs/DBeaver/DBeaver_Version.png")
 ```
 
 Mac Users will need to drag the downloaded program into the Applications folder:
 
-```{r, echo=FALSE, fig.cap="Downloading R from the CRAN", out.width = '100%'}
+```{r, echo=FALSE, DBeaverInstallation-label ,fig.cap="Installation DBeaver on Mac", out.width = '100%'}
 
 knitr::include_graphics("imgs/DBeaver/Mac_Application.png")
 ```
@@ -85,7 +85,7 @@ https://dbeaver.com/docs/dbeaver/Sample-Database/
 
 Your screen should look like this:
 
-```{r, echo=FALSE, fig.cap="What DBeaver Looks Like", out.width = '100%'}
+```{r, echo=FALSE, DBeaverView-label, fig.cap="What DBeaver Looks Like", out.width = '100%'}
 
 knitr::include_graphics("imgs/DBeaver/Start_Sample_Database.png")
 ```
@@ -96,7 +96,7 @@ Now, click the ‘>’ next to "DBeaver Sample Database (SQLite) (where the red 
 You will be asked to Download the SQLite driver file:
 
 
-```{r, echo=FALSE, fig.cap="Downloading SQLite Driver File", out.width = '100%'}
+```{r, echo=FALSE, SQLiteDriver-label ,fig.cap="Downloading SQLite Driver File", out.width = '100%'}
 
 knitr::include_graphics("imgs/DBeaver/SQLite.png")
 ```
@@ -111,7 +111,7 @@ SQLite is the dialect of SQL that the database is set up to be queried in.
 
 In DBeaver, create a New SQL script and save it with an informative name:
 
-```{r, echo=FALSE, fig.cap="DBeaver New Script", out.width = '100%'}
+```{r, echo=FALSE, DBeaverScript-label, fig.cap="DBeaver New Script", out.width = '100%'}
 
 knitr::include_graphics("imgs/DBeaver/New_Script.png")
 ```
@@ -127,7 +127,7 @@ Switch the order of your lines of code and press (2) again. Is your output any d
 Save your script\
 
 
-```{r, echo=FALSE, fig.cap="Running SQL Commands", out.width = '100%'}
+```{r, echo=FALSE, FirstCommand-label ,fig.cap="Running SQL Commands", out.width = '100%'}
 
 knitr::include_graphics("imgs/DBeaver/First_Command.png")
 ```

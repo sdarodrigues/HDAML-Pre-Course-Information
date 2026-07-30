@@ -13,4 +13,9 @@ Minor updates to correct minor typos after review by the administrative team of 
 
 ## v.0.2
 
-Minor updates for the academic year 2026/2027
+Previous versions were created by Mr Thomas Wright, a previous teaching fellow and student of the MSc HDA-ML. The current version has been updated by Dr Sabrina Rodrigues and updates include:
+
+* corrections to minor typos
+* changes to dates
+* corrections of figure numbering
+* updates to latest release numbers

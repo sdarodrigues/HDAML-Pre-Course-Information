@@ -27,7 +27,7 @@ Once your installation is done you can test if it was successful by doing the fo
 
 <div class="figure">
 <img src="imgs/SQL_Mac_Check.png" alt="Mac MySQL Check" width="100%" />
-<p class="caption">(\#fig:unnamed-chunk-1)Mac MySQL Check</p>
+<p class="caption">(\#fig:macCheck-label)Mac MySQL Check</p>
 </div>
 
 
@@ -44,7 +44,7 @@ Once your installation is done you can test if it was successful by doing the fo
 
 <div class="figure">
 <img src="imgs/SQL_Windows_Check.png" alt="Windows MySQL Check" width="100%" />
-<p class="caption">(\#fig:unnamed-chunk-2)Windows MySQL Check</p>
+<p class="caption">(\#fig:windowsCheck-label)Windows MySQL Check</p>
 </div>
 
 
@@ -61,14 +61,14 @@ Please download the installer for DBeaver Community 24.1.4 that matches your ope
 
 <div class="figure">
 <img src="imgs/DBeaver/DBeaver_Version.png" alt="DBeaver Free vs Paid" width="100%" />
-<p class="caption">(\#fig:unnamed-chunk-3)DBeaver Free vs Paid</p>
+<p class="caption">(\#fig:DBeaverFree-label)DBeaver Free vs Paid</p>
 </div>
 
 Mac Users will need to drag the downloaded program into the Applications folder:
 
 <div class="figure">
-<img src="imgs/DBeaver/Mac_Application.png" alt="Downloading R from the CRAN" width="100%" />
-<p class="caption">(\#fig:unnamed-chunk-4)Downloading R from the CRAN</p>
+<img src="imgs/DBeaver/Mac_Application.png" alt="Installation DBeaver on Mac" width="100%" />
+<p class="caption">(\#fig:DBeaverInstallation-label)Installation DBeaver on Mac</p>
 </div>
 
 
@@ -87,7 +87,7 @@ Your screen should look like this:
 
 <div class="figure">
 <img src="imgs/DBeaver/Start_Sample_Database.png" alt="What DBeaver Looks Like" width="100%" />
-<p class="caption">(\#fig:unnamed-chunk-5)What DBeaver Looks Like</p>
+<p class="caption">(\#fig:DBeaverView-label)What DBeaver Looks Like</p>
 </div>
 
 Now, click the ‘>’ next to "DBeaver Sample Database (SQLite) (where the red arrow is pointing in the picture above).
@@ -98,7 +98,7 @@ You will be asked to Download the SQLite driver file:
 
 <div class="figure">
 <img src="imgs/DBeaver/SQLite.png" alt="Downloading SQLite Driver File" width="100%" />
-<p class="caption">(\#fig:unnamed-chunk-6)Downloading SQLite Driver File</p>
+<p class="caption">(\#fig:SQLiteDriver-label)Downloading SQLite Driver File</p>
 </div>
 
 
@@ -113,7 +113,7 @@ In DBeaver, create a New SQL script and save it with an informative name:
 
 <div class="figure">
 <img src="imgs/DBeaver/New_Script.png" alt="DBeaver New Script" width="100%" />
-<p class="caption">(\#fig:unnamed-chunk-7)DBeaver New Script</p>
+<p class="caption">(\#fig:DBeaverScript-label)DBeaver New Script</p>
 </div>
 
 What does the writing above your script (the red arrow above) mean?
@@ -129,7 +129,7 @@ Save your script\
 
 <div class="figure">
 <img src="imgs/DBeaver/First_Command.png" alt="Running SQL Commands" width="100%" />
-<p class="caption">(\#fig:unnamed-chunk-8)Running SQL Commands</p>
+<p class="caption">(\#fig:FirstCommand-label)Running SQL Commands</p>
 </div>
 
 You have just queried an instance of a local server using a SQLite relational database management system in an Integrated Development Environment. Don't get overwhelmed by any confusing or complexing sounding jargon though -- when you start at the beginning and keep practicing you will be writing complex code before you know it.
