@@ -125,7 +125,7 @@ By the end of this module, students will be able to:
 * Introduction to Simulation
 * Electronic Heath Record Management and Analysis
 
-## Term 1 and Term 2
+## Term 1 and Term 2 {-}
 
 ### Translational Data Sciences {-}
 
@@ -157,7 +157,7 @@ Overall, this module will place students in the situation of researchers from th
 *	Bioinformatics;
 *	Computational statistics.
 
-## Term 2
+## Term 2 {-}
 
 ### Computational Epidemiology {-}
 
@@ -237,9 +237,9 @@ By the end of the AIHS module, students will be able to:
 * Interpretability, fairness, ethics
 
 
-## Term 3
+## Term 3 {-}
 
-### Research Project
+### Research Project {-}
 
 The research project is an exciting and central component to the MSc in Health Data Analytics and Machine Learning. It occurs throughout all of Term 3 and students are expected to work full-time on their research project. It provides an education in research and scientific ethos and methods. It also gives training in research techniques. With the guidance of their project supervisors, students are expected to apply many of the skills acquired throughout terms 1 and 2 to help them complete their research project. In some instances, new methods will need to be learned and applied.  Integral to the project is the preparation of the paper style report and the oral examination on which they will be assessed. 
 
