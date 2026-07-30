@@ -36,14 +36,14 @@ After clicking on the link above, you will need to select the "Skip registration
 
 <div class="figure">
 <img src="imgs/Anaconda_1.png" alt="First Page of Anaconda Website" width="100%" />
-<p class="caption">(\#fig:unnamed-chunk-1)First Page of Anaconda Website</p>
+<p class="caption">(\#fig:AnacondaWebsite-label)First Page of Anaconda Website</p>
 </div>
 
 Please select the "Distribution Installers" option (red arrow in the picture below):
 
 <div class="figure">
 <img src="imgs/Anaconda_2.png" alt="Select Distribution Installers" width="100%" />
-<p class="caption">(\#fig:unnamed-chunk-2)Select Distribution Installers</p>
+<p class="caption">(\#fig:DisInstallers-label)Select Distribution Installers</p>
 </div>
 
 Note: The difference between the Distribution and Miniconda Installers is what is included in the download package. The distribution installation comes with a variety of useful packages and programs that you can easily install. If you install the Miniconda then you will have to manually install all of the following IDEs (which is not recommended). 
@@ -54,7 +54,7 @@ Once Anaconda has been installed, please open the application (this can take a l
 
 <div class="figure">
 <img src="imgs/IDE_Install.png" alt="Anaconda Program Manager" width="100%" />
-<p class="caption">(\#fig:unnamed-chunk-3)Anaconda Program Manager</p>
+<p class="caption">(\#fig:AnaProgManager-label)Anaconda Program Manager</p>
 </div>
 
 Note that there are two options: "Install" for programs you do not have and "Launch" for those that are already installed. Please click "Install" for PyCharm, JupyterLab, Jupyter Notebook, and Spyder (you may need to scroll down to find them all). We will not use the other options in HDA as they are not useful or commonly used.
@@ -65,14 +65,14 @@ Spyder is very similar to R Studio with a panel lay out with a plotting window a
 
 <div class="figure">
 <img src="imgs/Spyder.png" alt="What Spyder Looks Like" width="100%" />
-<p class="caption">(\#fig:unnamed-chunk-4)What Spyder Looks Like</p>
+<p class="caption">(\#fig:SpyderView-label)What Spyder Looks Like</p>
 </div>
 
 Pycharm is a big deviation from the GUIs that you have seen so far. It is designed for software development so does not have a built-in window to visualize the results of the code (such as the plots). This can be disorientating for a scientist looking to write analytical code. However, the large suite of additional functions make Pycharm a powerful development environment for complex coding projects.
 
 <div class="figure">
 <img src="imgs/Pycharm.png" alt="What Pycharm Looks Like" width="100%" />
-<p class="caption">(\#fig:unnamed-chunk-5)What Pycharm Looks Like</p>
+<p class="caption">(\#fig:PyCharmView-label)What Pycharm Looks Like</p>
 </div>
 
 
@@ -89,14 +89,14 @@ Visual Studio Code, commonly referred to as VS Code, is an integrated developmen
 
 <div class="figure">
 <img src="imgs/VS_Code_Setup.png" alt="Install VS Code" width="100%" />
-<p class="caption">(\#fig:unnamed-chunk-6)Install VS Code</p>
+<p class="caption">(\#fig:InstallVS-label)Install VS Code</p>
 </div>
 
 What does VS Code look like?
 
 <div class="figure">
 <img src="imgs/VSCode.png" alt="What VS Code Looks Like" width="100%" />
-<p class="caption">(\#fig:unnamed-chunk-7)What VS Code Looks Like</p>
+<p class="caption">(\#fig:VSView-label)What VS Code Looks Like</p>
 </div>
 
 It looks like Pycharm! Both are development focused IDEs that do not have a graphical display for plots. So why is VS Code so much more widely used than Pycharm?

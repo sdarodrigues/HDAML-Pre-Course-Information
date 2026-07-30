@@ -34,14 +34,14 @@ You do not need to sign up for an account even if prompted.
 
 After clicking on the link above, you will need to select the "Skip registration" option on the resulting website (the red circle in the picture below):
 
-```{r, echo=FALSE, fig.cap="First Page of Anaconda Website", out.width = '100%'}
+```{r, echo=FALSE, AnacondaWebsite-label, fig.cap="First Page of Anaconda Website", out.width = '100%'}
 
 knitr::include_graphics("imgs/Anaconda_1.png")
 ```
 
 Please select the "Distribution Installers" option (red arrow in the picture below):
 
-```{r, echo=FALSE, fig.cap="Select Distribution Installers", out.width = '100%'}
+```{r, echo=FALSE, DisInstallers-label ,fig.cap="Select Distribution Installers", out.width = '100%'}
 
 knitr::include_graphics("imgs/Anaconda_2.png")
 ```
@@ -52,7 +52,7 @@ Note: The difference between the Distribution and Miniconda Installers is what i
 
 Once Anaconda has been installed, please open the application (this can take a little while). Once it is open, it should look like this:
 
-```{r, echo=FALSE, fig.cap="Anaconda Program Manager", out.width = '100%'}
+```{r, echo=FALSE, AnaProgManager-label, fig.cap="Anaconda Program Manager", out.width = '100%'}
 
 knitr::include_graphics("imgs/IDE_Install.png")
 ```
@@ -63,14 +63,14 @@ The Jupyter Notebook is the original web application for creating and sharing co
 
 Spyder is very similar to R Studio with a panel lay out with a plotting window and console to visualize the output of code:
 
-```{r, echo=FALSE, fig.cap="What Spyder Looks Like", out.width = '100%'}
+```{r, echo=FALSE, SpyderView-label,fig.cap="What Spyder Looks Like", out.width = '100%'}
 
 knitr::include_graphics("imgs/Spyder.png")
 ```
 
 Pycharm is a big deviation from the GUIs that you have seen so far. It is designed for software development so does not have a built-in window to visualize the results of the code (such as the plots). This can be disorientating for a scientist looking to write analytical code. However, the large suite of additional functions make Pycharm a powerful development environment for complex coding projects.
 
-```{r, echo=FALSE, fig.cap="What Pycharm Looks Like", out.width = '100%'}
+```{r, echo=FALSE, PyCharmView-label,fig.cap="What Pycharm Looks Like", out.width = '100%'}
 
 knitr::include_graphics("imgs/Pycharm.png")
 ```
@@ -87,14 +87,14 @@ Visual Studio Code, commonly referred to as VS Code, is an integrated developmen
 
 **Please only do the first step of the instructions (red rectangle in the picture below*)**. You will go over the other options during the course when necessary. We do not recommend attempting to modify the base install for now as it can be very overwhelming and easy to install things incorrectly.
 
-```{r, echo=FALSE, fig.cap="Install VS Code", out.width = '100%'}
+```{r, echo=FALSE, InstallVS-label, fig.cap="Install VS Code", out.width = '100%'}
 
 knitr::include_graphics("imgs/VS_Code_Setup.png")
 ```
 
 What does VS Code look like?
 
-```{r, echo=FALSE, fig.cap="What VS Code Looks Like", out.width = '100%'}
+```{r, echo=FALSE, VSView-label,fig.cap="What VS Code Looks Like", out.width = '100%'}
 
 knitr::include_graphics("imgs/VSCode.png")
 ```

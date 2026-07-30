@@ -12,6 +12,13 @@ fig:downloadWindowsR-label
 fig:downloadRstudio-label
 fig:downloadRstudio2-label
 fig:checkPackage-label
+fig:AnacondaWebsite-label
+fig:DisInstallers-label
+fig:AnaProgManager-label
+fig:SpyderView-label
+fig:PyCharmView-label
+fig:InstallVS-label
+fig:VSView-label
 fig:unnamed-chunk-8
 term-dates-and-time-requirements
 imperial-college-term-dates
