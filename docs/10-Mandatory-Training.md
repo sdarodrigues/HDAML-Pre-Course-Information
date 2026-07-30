@@ -8,15 +8,15 @@ The conduct of most epidemiology and public health research requires collection,
 
 As you may handle personal and sensitive personal data through teaching and research activities, you are required to complete a **Data Protection Awareness** e-learning course, which includes best practice and scenarios for maintaining data security, an overview of the data protection regulations, compliance, rights and enforcement. 
 
-You can only complete the course once you are enrolled as an Imperial student, and are encouraged to complete it before the course commences. Once you have enrolled with Imperial, you can access and complete the **Data Protection Awareness** course on Blackboard Learn. Instructions for course enrolment are outlined on [Imperial Essentials](https://www.imperial.ac.uk/staff-development/courses-and-programmes/online-learning/e-learning-courses/data-protection/) 
+You can only complete the course once you are enrolled as an Imperial student, and are encouraged to complete it before the course commences. Once you have enrolled with Imperial, you can access and complete the **Data Protection Awareness** course on Canvas (your learning platform). You will receive more information on this in Induction Week.
 
 
 ## Plagiarism Awareness
 
 As an Imperial College London student, you will be required to use and share academic information ethically, with academic integrity and in accordance with [Imperial College's Examination & Assessment: Academic Integrity Policy](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/academic-integrity/Examination-and-assessments---academic-integrity.pdf).
 
-To support compliance with this policy, you are required to complete a [Plagiarism Awareness Course](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/masters-students/plagiarism-online/), developed by the Graduate School in conjunction with the Library. It aims to equip all Imperial postgraduate students with a working knowledge of the concept of plagiarism and how to avoid it. 
-You should be auto-enrolled to this course; instructions for manual enrolment are also on the College website.
+To support compliance with this policy, you are required to complete a [Plagiarism Awareness Course](https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-integrity-ethics-and-sustainability/plagiarism-masters/), developed by the Graduate School in conjunction with the Library. It aims to equip all Imperial postgraduate students with a working knowledge of the concept of plagiarism and how to avoid it. 
+You should be auto-enrolled to this course; instructions for manual enrolment are also on the College website. More information will also be given in the induction week.
 
 
 
