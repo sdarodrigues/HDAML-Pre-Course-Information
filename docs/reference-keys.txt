@@ -66,6 +66,10 @@ fun-readings
 blogs
 books
 course-preview
+term-1-and-term-2
+term-2
+term-3
+research-project
 reading-list
 statistics-1
 programming-2
@@ -103,6 +107,3 @@ updating-git
 installing-github
 github-desktop
 change-log
-v.0.0
-v.0.1
-v.0.2

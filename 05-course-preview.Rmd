@@ -2,7 +2,9 @@
 
 Module previews to get familiar with the courses before learning the in-depth details. Please note that the below maybe subject to minor changes.
 
-## Introduction to Statistical Thinking and Data Analysis {-}
+## Term 1 {-}
+
+### Introduction to Statistical Thinking and Data Analysis {-}
 
 The aims of this module are to help students to:
  
@@ -32,7 +34,7 @@ By the end of this module, students should be able to:
 * Bayesian Inference, Missing data
 * Study design, Sample size calculation
 
-## Principles and Methods of Epidemiology {-}
+### Principles and Methods of Epidemiology {-}
 
 Principles and Methods of Epidemiology is a core module that ensures students will be familiar with the core concepts of epidemiology and acquire the skills necessary to describe, analyse, interpret and appraise epidemiological studies. Further modules and projects require such knowledge, and a good grasp of these basics is thus essential for successful completion of the degree.
 
@@ -62,7 +64,7 @@ The module covers key epidemiological concepts including:
 * causal inference.
 
 
-## Molecular Epidemiology {-}
+### Molecular Epidemiology {-}
 
 The aims of this module are to enable you to:
 
@@ -90,7 +92,7 @@ At the end of this module, students should be able to:
 * Metabolomics
 
 
-## Clinical Data Management {-}
+### Clinical Data Management {-}
 
 This module aims to familiarise students with the complexity and diversity of clinical/medical data and to enable students to use and query clinical databases that are SQL based. The module will introduce key features and requirements attached to clinical data and will present methodologies and standards used to design and exploit databases. Specifically, the module will provide an overview of:
 
@@ -123,9 +125,11 @@ By the end of this module, students will be able to:
 * Introduction to Simulation
 * Electronic Heath Record Management and Analysis
 
-## Translational Data Science {-}
+## Term 1 and Term 2
 
-The Translational Data Science module aims to guide students in the process of producing a publishable piece of research by improving their team working, communication, presentation and research skills. Based on real data sets and supervised by field experts, students will have to apply methods learned on the other modules to solve a relevant problem on a real data set. This will involve going through the following steps to produce, by the end of the module, one oral presentation, and one draft publication, which will be peer reviewed:
+### Translational Data Sciences {-}
+
+The Translational Data Sciences module aims to guide students in the process of producing a publishable piece of research by improving their team working, communication, presentation and research skills. Based on real data sets and supervised by field experts, students will have to apply methods learned on the other modules to solve a relevant problem on a real data set. This will involve going through the following steps to produce, by the end of the module, one oral presentation, and one draft publication, which will be peer reviewed:
  
 *	Data exploration;
 *	Literature search and research question definition;
@@ -153,7 +157,9 @@ Overall, this module will place students in the situation of researchers from th
 *	Bioinformatics;
 *	Computational statistics.
 
-## Computational Epidemiology {-}
+## Term 2
+
+### Computational Epidemiology {-}
 
 The aim of Computational Epidemiology is to familiarise students with some key topics in computational biology, as a pivotal research theme within the School of Public Health.  The module will introduce some of the issues faced while analysing complex data sets in advanced epidemiology. From these illustrations, methodological developments to address the resulting technical/computational challenges will be described, assessed and compared. Each of these established methods will be associated to a practical session during which students will implement the methods in R.
 
@@ -181,7 +187,7 @@ By the end of the this module students will be able to:
 * Hidden Markov Models
 
 
-## Machine Learning {-}
+### Machine Learning {-}
 
 This module aims to familiarise students with the principles of machine learning (ML) and the most common ML methods (i.e., algorithms) used in health data analytics. The module will start with the definition of machine learning and its role in data analytics, compared to traditional statistical approaches. The module will then provide an overview of a series of algorithms in three layers of knowledge: (a) a plain language overview and a step-by-step explanation of the method, the rationale for the method, the appropriate use and interpretation of the outcome; (b) a detailed computational derivation with mathematical theory, when appropriate; (c) practical hands-on work with real data applications of the method. 
 
@@ -204,7 +210,7 @@ By the end of this module, students will be able to:
 
 
 
-## AI for Health Sciences {-}
+### AI for Health Sciences {-}
 
 The Artificial Intelligence for Health Sciences (AIHS) module will equip students with a comprehensive and practice-driven understanding of Artificial Intelligence (AI) approaches and applications for health sciences. The module covers a range of AI methods and illustrates their applicability to health data. The module will begin with a foundational overview of AI and its growing role in health sciences, differentiating it from statistical and Machine Learning approaches and exploring its transformative potential and limitations. A particular focus will be made on the development of rigorous and reproducible approaches and on the careful interpretation of the generated results.
 
@@ -230,4 +236,44 @@ By the end of the AIHS module, students will be able to:
 * Deep generative models (VAEs, NF, DDP)
 * Interpretability, fairness, ethics
 
+
+## Term 3
+
+### Research Project
+
+The research project is an exciting and central component to the MSc in Health Data Analytics and Machine Learning. It occurs throughout all of Term 3 and students are expected to work full-time on their research project. It provides an education in research and scientific ethos and methods. It also gives training in research techniques. With the guidance of their project supervisors, students are expected to apply many of the skills acquired throughout terms 1 and 2 to help them complete their research project. In some instances, new methods will need to be learned and applied.  Integral to the project is the preparation of the paper style report and the oral examination on which they will be assessed. 
+
+At the end of the research project, students will be able to:
+
+1. Formulate and propose an original and relevant research questions from a complex data set.
+2. Explore and analyse a complex data set to assess its quality and its potential.
+3. Deploy/exploit databases under all necessary quality/security/privacy standards.
+4. Design and implement a complex analytical plan using methods borrowing from OMICs profiling and Machine Learning approaches.
+5. Critically appraise results and adapt the analytical strategy accordingly.
+6. Fully interpret results from the data analysis, including the production of efficient visualisation of the results.
+7. Write and present a scientific report which effectively communicates the research conducted throughout the project.
+
+
+**Module content**
+
+Students will choose a project they are interested in from the following (non-exhaustive list of) fields:
+
+* Molecular Epidemiology (multi-OMICS)
+* Cancer Epidemiology
+* Nutritional Epidemiology
+* Global Epidemiology
+* Infectious Disease
+* Database Management and exploitation
+* Population Sciences
+* Exposome Sciences
+* Big data from industrial partners
+
+Each of the proposed projects will feature complex and high dimensional (sets of) data, some of which may be sourced and supplied by industry partners. As taught in the "Translational Data Sciences" module, each student will have (under the guidance of the Project supervisor) to go through all the process of writing a scientific article:
+
+1. Perform a thorough literature review in the field and Identify an original research question. This will be reported in the background of the report and oral presentation.
+2. Design a sound analytical plan, also presented and assessed in the report and presentation.
+3. Implement using the most appropriate statistical and machine learning approaches to address the research question.
+4. Critically appraise the preliminary results.
+5. Refine the models and implement series of sensitivity analyses.
+6. Conclude on the results and confront /discuss these findings against the literature"				
 
