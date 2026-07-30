@@ -8,7 +8,7 @@ Git is a version control system that lets you track who made changes to what whe
 
 It is the most widely used language in programming with every project that is being written in every language using Git (with minor exceptions). Note: There are other version control systems such as Mercurial and Fossil but they are niche applications with far less utility than Git.
 
-The latest version is 2.50.1. You may already have Git on your computer (it is included in the install of various other programs).
+The latest version is 2.55.0. You may already have Git on your computer (it is included in the install of various other programs).
 
 To check, please open the Terminal app, type git --version and press Enter/Return. If you do not have Git, you will be provided instructions to follow. Alternatively, you may close the Terminal and go to the git website to download an installer: 
 
@@ -26,7 +26,7 @@ Note: this project is no longer maintained. Because this installer is not signed
 
 ### Updating Git
 
-If you have git, but an older version that 2.50.1, then you can update your git version - using git. Type to the following into your Terminal and press Enter:
+If you have git, but an older version that 2.55.0, then you can update your git version - using git. Type to the following into your Terminal and press Enter:
 
 git clone https://github.com/git/git
 
@@ -54,14 +54,14 @@ When you open Github Desktop, it should look like this:
 
 <div class="figure">
 <img src="imgs/Github_Desktop_1.png" alt="Opening Github Desktop" width="100%" />
-<p class="caption">(\#fig:unnamed-chunk-1)Opening Github Desktop</p>
+<p class="caption">(\#fig:githubDesktop-label)Opening Github Desktop</p>
 </div>
 
 Click sign in to Github.com and follow the instructions. Once you are finished, your Github Desktop should now look like:
 
 <div class="figure">
 <img src="imgs/Github_Desktop_2.png" alt="Github Desktop " width="100%" />
-<p class="caption">(\#fig:unnamed-chunk-2)Github Desktop </p>
+<p class="caption">(\#fig:githubDesktop2-label)Github Desktop </p>
 </div>
 
 That is all for now. If you want to start becoming familiar with Github, click on the "Create a Tutorial Repository" in Github Desktop to be walked through the basics.

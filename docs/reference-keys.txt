@@ -20,6 +20,8 @@ fig:PyCharmView-label
 fig:InstallVS-label
 fig:VSView-label
 fig:unnamed-chunk-8
+fig:githubDesktop-label
+fig:githubDesktop2-label
 term-dates-and-time-requirements
 imperial-college-term-dates
 general-advice
