@@ -1,7 +1,7 @@
 --- 
 title: "Pre Course Material"
 author: "Health Data Analytics and Machine Learning"
-date: '2026-07-29'
+date: '2026-07-30'
 site: bookdown::bookdown_site
 documentclass: book
 # bibliography: [book.bib, packages.bib]
