@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.23)  29 JUL 2026 15:39
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.23)  26 AUG 2026 11:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -476,75 +476,6 @@ LaTeX Warning: Label `fig:unnamed-chunk-4' multiply defined.
 
 LaTeX Warning: Label `fig:unnamed-chunk-5' multiply defined.
 
-
-LaTeX Warning: Label `fig:unnamed-chunk-1' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-2' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-3' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-4' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-5' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-6' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-1' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-2' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-3' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-4' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-5' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-6' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-7' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-1' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-2' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-3' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-4' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-5' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-6' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-7' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-8' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-1' multiply defined.
-
-
-LaTeX Warning: Label `fig:unnamed-chunk-2' multiply defined.
-
 )
 \openout1 = `HDA-Precourse-Material.aux'.
 
@@ -920,51 +851,51 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 
 ]
 Chapter 1.
-[11] [12] [13] [14
-
-]
+[11] [12]
 Chapter 2.
-[15] [16] [17] [18]
+[13
+
+] [14] [15] [16]
 Chapter 3.
 File: imgs/Mac_install_info.png Graphic file (type bmp)
 <imgs/Mac_install_info.png>
 File: imgs/Mac_Download_Example.png Graphic file (type bmp)
 <imgs/Mac_Download_Example.png>
-[19
+[17
 
 ]
 File: imgs/Windows_Versions.png Graphic file (type bmp)
 <imgs/Windows_Versions.png>
-[20] [21]
+[18] [19]
 File: imgs/Terminal_Example.png Graphic file (type bmp)
 <imgs/Terminal_Example.png>
 File: imgs/Matrix.jpeg Graphic file (type bmp)
 <imgs/Matrix.jpeg>
-[22] [23] [24
+[20] [21] [22
 
 ]
 Chapter 4.
 File: imgs/Basic_Terminal.png Graphic file (type bmp)
 <imgs/Basic_Terminal.png>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 5893) has occurred while \output is active []
 
-[25]
+[23]
 File: imgs/R_Hello.png Graphic file (type bmp)
 <imgs/R_Hello.png>
 File: imgs/Bash_Hello.png Graphic file (type bmp)
 <imgs/Bash_Hello.png>
-[26] [27]
+[24] [25]
 File: imgs/R_Console.png Graphic file (type bmp)
 <imgs/R_Console.png>
 File: imgs/R_New.png Graphic file (type bmp)
 <imgs/R_New.png>
 File: imgs/R_Script.png Graphic file (type bmp)
 <imgs/R_Script.png>
-[28] [29]
+[26] [27]
 File: imgs/Python_Hello.png Graphic file (type bmp)
 <imgs/Python_Hello.png>
-[30]
+[28]
 File: imgs/Juypter_Exercise_1.png Graphic file (type bmp)
 <imgs/Juypter_Exercise_1.png>
 File: imgs/Juypter_Exercise_2.png Graphic file (type bmp)
@@ -977,49 +908,75 @@ File: imgs/Juypter_Exercise_5.png Graphic file (type bmp)
 <imgs/Juypter_Exercise_5.png>
 File: imgs/Juypter_Exercise_6.png Graphic file (type bmp)
 <imgs/Juypter_Exercise_6.png>
-[31] [32] [33]
+[29] [30] [31]
 File: imgs/DBeaver/Beaver.png Graphic file (type bmp)
 <imgs/DBeaver/Beaver.png>
-[34] [35] [36
+[32] [33] [34
 
 ]
 Chapter 5.
-[37] [38] [39] [40]
-Chapter 6.
-[41
+[35] [36] [37] [38] [39] [40
 
 ]
-Overfull \hbox (238.48502pt too wide) in paragraph at lines 773--775
+Chapter 6.
+[41] [42] [43] [44] [45] [46] [47] [48] [49] [50
+
+]
+Chapter 7.
+[51]
+Overfull \hbox (238.48502pt too wide) in paragraph at lines 1275--1277
 \TU/lmr/m/n/10 Available to purchase from: []https://blackwells.co.uk/bookshop/
 product/9781449604691?gclid=Cj0KCQjwwqXMBRCDARIsAD-
  []
 
 
-Overfull \hbox (87.97pt too wide) in paragraph at lines 773--775
+Overfull \hbox (87.97pt too wide) in paragraph at lines 1275--1277
 \TU/lmr/m/n/10 AQ2g9wGEkLUMAkkoIY_FO62AVEVFj2neeE93lnZKq–zCsJF7IuAp65kaAgAKEALw
 _wcB[] 
  []
 
-[42]
-Chapter 7.
+
+Underfull \hbox (badness 6625) in paragraph at lines 1279--1281
+[]\TU/lmr/bx/n/10 Oxford Handbook of Epidemiology for Clinicians (Ox-
+ []
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 1279--1281
+\TU/lmr/bx/n/10 ford Handbooks Series) \TU/lmr/m/n/10 Ward H, Toledano M, Shadd
+ick G,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1279--1281
+[]\TU/lmr/m/n/10 https://www.amazon.co.uk/Oxford-Handbook-Epidemiology-Clinicia
+ns-
+ []
+
+[52]
+Chapter 8.
 
 Underfull \vbox (badness 1968) has occurred while \output is active []
 
-[43
+[53
 
 ]
 Underfull \vbox (badness 1831) has occurred while \output is active []
 
-[44] [45] [46]
-Chapter 8.
-[47
+[54] [55] [56]
+Chapter 9.
+[57
 
-] [48
+] [58
 
 ]
-Chapter 9.
-[49] [50]
 Chapter 10.
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 1400--1400
+[]\TU/lmr/bx/n/14.4 Attributes and Aspirations (Recom-
+ []
+
+[60]
+Chapter 11.
 File: FIG_software_installation/R_download_mac.png Graphic file (type bmp)
 <FIG_software_installation/R_download_mac.png>
 File: FIG_software_installation/R_install.png Graphic file (type bmp)
@@ -1027,90 +984,91 @@ File: FIG_software_installation/R_install.png Graphic file (type bmp)
 File: FIG_software_installation/XQuartz_download_mac.png Graphic file (type bmp
 )
 <FIG_software_installation/XQuartz_download_mac.png>
-[51
+[61
 
-] [52]
+] [62]
 File: FIG_software_installation/R_download_windows.png Graphic file (type bmp)
 <FIG_software_installation/R_download_windows.png>
 File: FIG_software_installation/Rstudio_download1.png Graphic file (type bmp)
 <FIG_software_installation/Rstudio_download1.png>
 File: FIG_software_installation/Rstudio_download2.png Graphic file (type bmp)
 <FIG_software_installation/Rstudio_download2.png>
-[53] [54]
+[63] [64]
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 964.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 1480.
 
 LaTeX Font Warning: Font shape `TU/lmtt/bx/it' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/sl' tried instead on input line 964.
+(Font)              Font shape `TU/lmtt/b/sl' tried instead on input line 1480.
 
-[55]
+
+[65]
 File: imgs/R_Packages.png Graphic file (type bmp)
 <imgs/R_Packages.png>
-[56] [57] [58
+[66] [67] [68
 
 ]
-Chapter 11.
+Chapter 12.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[59]
+[69]
 File: imgs/Anaconda_1.png Graphic file (type bmp)
 <imgs/Anaconda_1.png>
 File: imgs/Anaconda_2.png Graphic file (type bmp)
 <imgs/Anaconda_2.png>
 File: imgs/IDE_Install.png Graphic file (type bmp)
 <imgs/IDE_Install.png>
-[60] [61]
+[70] [71]
 File: imgs/Spyder.png Graphic file (type bmp)
 <imgs/Spyder.png>
 File: imgs/Pycharm.png Graphic file (type bmp)
 <imgs/Pycharm.png>
-[62]
+[72]
 File: imgs/VS_Code_Setup.png Graphic file (type bmp)
 <imgs/VS_Code_Setup.png>
 File: imgs/VSCode.png Graphic file (type bmp)
 <imgs/VSCode.png>
-[63] [64] [65] [66]
-Chapter 12.
-[67
+[73] [74] [75] [76]
+Chapter 13.
+[77
 
 ]
 File: imgs/SQL_Mac_Check.png Graphic file (type bmp)
 <imgs/SQL_Mac_Check.png>
 File: imgs/SQL_Windows_Check.png Graphic file (type bmp)
 <imgs/SQL_Windows_Check.png>
-[68]
+[78]
 File: imgs/DBeaver/DBeaver_Version.png Graphic file (type bmp)
 <imgs/DBeaver/DBeaver_Version.png>
 File: imgs/DBeaver/Mac_Application.png Graphic file (type bmp)
 <imgs/DBeaver/Mac_Application.png>
 File: imgs/DBeaver/Start_Sample_Database.png Graphic file (type bmp)
 <imgs/DBeaver/Start_Sample_Database.png>
-[69] [70]
+[79] [80]
 File: imgs/DBeaver/SQLite.png Graphic file (type bmp)
 <imgs/DBeaver/SQLite.png>
 File: imgs/DBeaver/New_Script.png Graphic file (type bmp)
 <imgs/DBeaver/New_Script.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1209--1216
+Underfull \hbox (badness 10000) in paragraph at lines 1725--1732
 
  []
 
-[71] [72]
+[81] [82]
 File: imgs/DBeaver/First_Command.png Graphic file (type bmp)
 <imgs/DBeaver/First_Command.png>
-[73] [74
+[83] [84
 
 ]
-Chapter 13.
-[75] [76]
+Chapter 14.
+[85] [86]
 File: imgs/Github_Desktop_1.png Graphic file (type bmp)
 <imgs/Github_Desktop_1.png>
 File: imgs/Github_Desktop_2.png Graphic file (type bmp)
 <imgs/Github_Desktop_2.png>
-[77] [78]
-Chapter 14.
-[79
+[87] [88]
+Chapter 15.
+[89
 
 ] (./HDA-Precourse-Material.aux)
  ***********
@@ -1122,12 +1080,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 20222 strings out of 474773
- 379058 string characters out of 5757723
- 1937839 words of memory out of 5000000
- 42055 multiletter control sequences out of 15000+600000
- 564552 words of font info for 93 fonts, out of 8000000 for 9000
+ 20273 strings out of 474773
+ 380188 string characters out of 5757723
+ 1938839 words of memory out of 5000000
+ 42104 multiletter control sequences out of 15000+600000
+ 564560 words of font info for 94 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 90i,7n,121p,1019b,463s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,7n,121p,1019b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on HDA-Precourse-Material.pdf (79 pages).
+Output written on HDA-Precourse-Material.pdf (89 pages).

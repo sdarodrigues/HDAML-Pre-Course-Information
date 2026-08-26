@@ -21,3 +21,9 @@ Previous versions were created by Mr Thomas Wright, a previous teaching fellow a
 * updates to latest release numbers
 
 If you notice any typos or some releases need to be updated, please contact Dr Sabrina Rodrigues with any changes or suggestions.
+
+## v.0.3 {-}
+
+* Minor changes to end of Term 2 dates
+* Included specifications around Term 3 split into Project overview and preparation for presentation
+* Removal of Python optional course as this has now been incorporated into CDM.

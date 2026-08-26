@@ -1,7 +1,7 @@
 --- 
 title: "Pre Course Material"
 author: "Health Data Analytics and Machine Learning"
-date: '2026-07-30'
+date: '2026-08-26'
 site: bookdown::bookdown_site
 documentclass: book
 # bibliography: [book.bib, packages.bib]
@@ -32,7 +32,7 @@ These unique circumstances poses their own challenge: How to design a course tha
 
 ## Program Overview {-}
 
-HDA is split into four components. The pre-course material defines the scope of the course and provides conceptual introductions to important core concepts. Term 1 up-skills the cohort and establishes the base competency needed for more advanced approaches. Optional short courses in Biology, Python, and Math are available. At this point, every student has the same multidisciplinary base skill set in coding, statistics, molecular biology, research, and data science. Term 2 builds on that base to learn and apply cutting-edge analytical methodology. Term 3 pairs each student with a world leading research team to design, implement, and report a novel solution to a real-world scientific issue. This capstone project offers an opportunity to demonstrate the skillset from the course and your new ability as an analytical expert.
+HDA is split into four components. The pre-course material defines the scope of the course and provides conceptual introductions to important core concepts. Term 1 up-skills the cohort and establishes the base competency needed for more advanced approaches. Optional short courses in Biology and Math are available. At this point, every student has the same multidisciplinary base skill set in coding, statistics, molecular biology, research, and data science. Term 2 builds on that base to learn and apply cutting-edge analytical methodology. Term 3 pairs each student with a world leading research team to design, implement, and report a novel solution to a real-world scientific issue. This capstone project offers an opportunity to demonstrate the skillset from the course and your new ability as an analytical expert.
 
 Each course broadly follows the format of a 1.5-2 hour theoretical lecture in the morning followed by a 3 hour afternoon practical session to apply the subject of the lecture. There are optional weekly conceptual quizzes and ungraded midterms to help you figure out which subjects need more of your attention.
 

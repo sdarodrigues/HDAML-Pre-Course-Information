@@ -17,11 +17,12 @@ Below are provisional Imperial College terms dates for 2026-27. **Please note th
 | Induction Week    | 28 September 2026 | 2 October 2026         |
 | Term 1            | 5 October 2026    | 11 December 2026       |
 | Exam period 1     | 4 January 2027    | 8 January 2027         |
-| Term 2            | 11 January 2027   | 2 April 2027          |
+| Term 2            | 11 January 2027   | 19 March 2027          |
 | Exam period 2 (Final Exams)     | 19 April 2027     | 23 April 2026          |
 | Exam period 2 (Project Due)     | 26 April 2027     | 30 April 2026          |
-| Term 3            | 3 May 2027     | 10 September 2027     |
+| Term 3*            | 3 May 2027     | 10 September 2027     |
 
+* Term 3 is split into a research project period from 3 May to 23 August and a presentation preparation period from 24 August to 5 September. The Term 3 period ends with project presentation week commencing on 6 September, with the actual project presentation date TBC.
 
 ***Examination dates***
 
